@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harish147
-- 👀 I’m interested in Custom Rom development and AOSP
-- 🌱 I’m currently learning AOSP 
-- 💞️ I’m looking to collaborate on Custom rom development
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning Microservices 
+- 💞️ I’m looking to collaborate on Web development
 - 📫 How to reach me harishkanoje147@gmail.com
 
 <!---
